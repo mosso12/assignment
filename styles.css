@@ -1,0 +1,18 @@
+
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    text-align: center;
+}
+
+.topnav a {
+    float: center;
+    color: rgb(151, 150, 147);
+    text-align: center;
+    display:inline-block;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
